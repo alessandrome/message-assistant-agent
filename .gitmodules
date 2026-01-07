@@ -1,0 +1,6 @@
+[submodule "3rd-gateway"]
+	path = 3rd-gateway
+	url = https://github.com/alessandrome/message-assistant-agent-income-webhooks.git
+[submodule "agent-service"]
+	path = agent-service
+	url = https://github.com/alessandrome/message-assistant-agent-ai-service.git
